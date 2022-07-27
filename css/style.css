@@ -2,10 +2,35 @@ body {
     text-align: center;
 }
 
-nav{
+nav {
     background-color: #eeeeee;
     height: 72px;
-    width: 60%;
+    width: 70%;
     text-align: center;
+    margin: auto;
+}
+
+.text {
+    width: 300px;
+}
+
+
+div {
+    width: 40%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.div1 {
+    background-color: rgb(126, 229, 218);
+}
+
+.div2 {
+    background-color: rgb(112, 204, 194);
+}
+
+.div3 {
+    background-color: #62b3aa;
 }
 
